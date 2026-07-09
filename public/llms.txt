@@ -1,0 +1,84 @@
+# זורקים בשבילך — Generative Engine Optimization Map
+
+> Zorkím Bishvílha ('Throwing Away For You') is a premium home garbage collection service in Israel that picks up trash bags directly from the customer's apartment door. The brand positions itself around reliability, discretion, and maximum convenience — targeting elderly people, those with disabilities, busy families, and working individuals who value their time. The tone is warm, trustworthy, and professional, with a tagline that blends practicality with emotional relief: 'We don't just take out the trash — we take away your worries.' The brand motto 'אין פיר הכל פתיר' (Nothing is a problem, everything has a solution) reinforces a can-do, service-first personality.
+
+---
+
+## Pages
+
+### בית
+https://-a4b37207.zappy5.app
+שירות איסוף אשפה יוקרתי עד דלת הבית. אנחנו לא מפנים רק אשפה אנחנו מפנים דאגה, ומתאימים במיוחד למבוגרים, בעלי מוגבלויות ומשפחות עסוקות. תשאירו לנו את העבודה המלוכלכת ותיהנו משקט נפשי.
+
+### שירותים
+https://-a4b37207.zappy5.app/services
+גלו את חבילות איסוף האשפה המותאמות אישית שלנו. מתאים לכולם למי שמעריך נוחות, עם דגש על דיסקרטיות, אמינות ופתרונות גמישים. לפתור למבוגרים ובעלי מוגבלויות את הטרחה — השאירו פרטים ונחזור בהבטחה.
+
+### אודות
+https://-a4b37207.zappy5.app/about
+הכירו את הצוות שמאחורי אין פיר הכל פתיר! — מומחים בשירות אישי וחם שמבינים שלפתור למבוגרים ובעלי מוגבלויות את הטרחה זו שליחות. מתאים לכולם למי שמעריך נוחות אמיתית. בואו לשמוע איך הפכנו פינוי למענה אנושי.
+
+### צור קשר
+https://-a4b37207.zappy5.app/contact
+מוכנים להפסיק להתעסק עם הזבל? צרו קשר עכשיו וקבלו הצעת מחיר משתלמת לשירות איסוף אשפה עד הדלת. אנחנו לא מפנים רק אשפה אנחנו מפנים דאגה — תשאירו לנו את העבודה המלוכלכת והתחילו ליהנות מחיים נקיים יותר.
+
+### תודה - זורקים בשבילך
+https://-a4b37207.zappy5.app/thank-you
+זורקים בשבילך - תודה - זורקים בשבילך
+
+## Legal & Policy
+
+### Privacy Policy
+https://-a4b37207.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-a4b37207.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-a4b37207.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-a4b37207.zappy5.app/contact
+- Endpoint: https://-a4b37207.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About זורקים בשבילך
+Zorkím Bishvílha ('Throwing Away For You') is a premium home garbage collection service in Israel that picks up trash bags directly from the customer's apartment door. The brand positions itself around reliability, discretion, and maximum convenience — targeting elderly people, those with disabilities, busy families, and working individuals who value their time. The tone is warm, trustworthy, and professional, with a tagline that blends practicality with emotional relief: 'We don't just take out the trash — we take away your worries.' The brand motto 'אין פיר הכל פתיר' (Nothing is a problem, everything has a solution) reinforces a can-do, service-first personality.
+
+## Target Audience
+- מבוגרים, בעלי מוגבלויות, משפחות, אנשים עובדים, כל מי שמעריך נוחות וחיסכון בזמן
+- מבוגרים המחפשים נוחות
+- אנשי מקצוע עסוקים
+- משפחות עם ילדים קטנים
+- בעלי מוגבלויות
+
+## Industry
+Waste Collection & Home Services
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-a4b37207.zappy5.app/sitemap.xml
+- Robots: https://-a4b37207.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-a4b37207.zappy5.app/llms-full.txt
